@@ -1,4 +1,4 @@
-# Heroes of Pymoli.
+# Heroes of Pymoli
 
 ### Heroes of Pymoli is a free-to-play game, where players are encouraged to purchase optional items to enhance the player experience. I generated a report that breaks down the game's purchasing data into meaningful insights.
 ----
